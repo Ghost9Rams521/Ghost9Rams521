@@ -1,0 +1,88 @@
+
+
+h1.titre{
+	color: #F80505;
+	font-size: 80px;
+	font-family: 'Marvel', sans-serif
+}
+
+
+
+body{
+	background-color: #AED6F1;
+}
+
+header{
+	background: url(https://www.vousnousils.fr/wp-content/uploads/2016/02/Fotolia_81556974_Subscription_Monthly_M.jpg);
+	height: 20vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	line-height: 2px;
+}
+
+h2{
+	margin-left: 50px;
+}
+
+h2.menu{
+	margin-left: 350px;
+	font-style: italic;
+}
+
+h2.menu2{
+	margin-left: 200px;
+	font-style: italic;
+}
+
+h2.menu3{
+	margin-left: 200px;
+	font-style: italic;
+}
+	
+
+ul{
+	list-style-type: none;
+	color: red;
+}
+
+p.secret{
+	margin-left: 100%;
+}
+
+h1.Titre-secret{
+	font-size: 80px;
+}
+
+ul li a{
+	color: #3D5E74;
+}
+h3.Titre--secret{
+	font-size: 50px;
+}
+
+p.presentation{
+	margin-left: 40px;
+	font-size: 23px;
+}
+
+img.image{
+	height: 60%;
+	width: 40%;
+}
+
+p.effect{
+	margin-left: 40px;
+	font-size: 23px;
+}
+
+p.trouble{
+	margin-left: 40px;
+	font-size: 23px;
+}
+
+
+
+
+
